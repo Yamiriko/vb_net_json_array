@@ -22,3 +22,4 @@ F:\Projek Timbangan\tes_json\tes_json_penjualan\obj\Debug\tes_json.vbproj.CopyCo
 F:\Projek Timbangan\tes_json\tes_json_penjualan\obj\Debug\tes_json.exe
 F:\Projek Timbangan\tes_json\tes_json_penjualan\obj\Debug\tes_json.xml
 F:\Projek Timbangan\tes_json\tes_json_penjualan\obj\Debug\tes_json.pdb
+F:\Projek Timbangan\tes_json\tes_json_penjualan\obj\Debug\tes_json.vbprojAssemblyReference.cache
