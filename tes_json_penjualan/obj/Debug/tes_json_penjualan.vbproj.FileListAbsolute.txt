@@ -1,0 +1,13 @@
+F:\Projek Timbangan\tes_json_penjualan\tes_json_penjualan\bin\Debug\tes_json_penjualan.exe
+F:\Projek Timbangan\tes_json_penjualan\tes_json_penjualan\bin\Debug\tes_json_penjualan.pdb
+F:\Projek Timbangan\tes_json_penjualan\tes_json_penjualan\bin\Debug\tes_json_penjualan.xml
+F:\Projek Timbangan\tes_json_penjualan\tes_json_penjualan\obj\Debug\tes_json_penjualan.Form1.resources
+F:\Projek Timbangan\tes_json_penjualan\tes_json_penjualan\obj\Debug\tes_json_penjualan.Resources.resources
+F:\Projek Timbangan\tes_json_penjualan\tes_json_penjualan\obj\Debug\tes_json_penjualan.vbproj.GenerateResource.cache
+F:\Projek Timbangan\tes_json_penjualan\tes_json_penjualan\obj\Debug\tes_json_penjualan.exe
+F:\Projek Timbangan\tes_json_penjualan\tes_json_penjualan\obj\Debug\tes_json_penjualan.xml
+F:\Projek Timbangan\tes_json_penjualan\tes_json_penjualan\obj\Debug\tes_json_penjualan.pdb
+F:\Projek Timbangan\tes_json_penjualan\tes_json_penjualan\bin\Debug\Newtonsoft.Json.dll
+F:\Projek Timbangan\tes_json_penjualan\tes_json_penjualan\bin\Debug\Newtonsoft.Json.xml
+F:\Projek Timbangan\tes_json_penjualan\tes_json_penjualan\obj\Debug\tes_json_penjualan.vbprojAssemblyReference.cache
+F:\Projek Timbangan\tes_json_penjualan\tes_json_penjualan\obj\Debug\tes_json_penjualan.vbproj.CopyComplete
