@@ -23,3 +23,15 @@ F:\Projek Timbangan\tes_json\tes_json_penjualan\obj\Debug\tes_json.exe
 F:\Projek Timbangan\tes_json\tes_json_penjualan\obj\Debug\tes_json.xml
 F:\Projek Timbangan\tes_json\tes_json_penjualan\obj\Debug\tes_json.pdb
 F:\Projek Timbangan\tes_json\tes_json_penjualan\obj\Debug\tes_json.vbprojAssemblyReference.cache
+D:\Projek VB\vb_net_json_array\tes_json_penjualan\obj\Debug\tes_json.exe
+D:\Projek VB\vb_net_json_array\tes_json_penjualan\obj\Debug\tes_json.xml
+D:\Projek VB\vb_net_json_array\tes_json_penjualan\obj\Debug\tes_json.pdb
+D:\Projek VB\vb_net_json_array\tes_json_penjualan\bin\Debug\tes_json.exe
+D:\Projek VB\vb_net_json_array\tes_json_penjualan\bin\Debug\tes_json.pdb
+D:\Projek VB\vb_net_json_array\tes_json_penjualan\bin\Debug\tes_json.xml
+D:\Projek VB\vb_net_json_array\tes_json_penjualan\bin\Debug\Newtonsoft.Json.dll
+D:\Projek VB\vb_net_json_array\tes_json_penjualan\bin\Debug\Newtonsoft.Json.xml
+D:\Projek VB\vb_net_json_array\tes_json_penjualan\obj\Debug\tes_json.vbprojResolveAssemblyReference.cache
+D:\Projek VB\vb_net_json_array\tes_json_penjualan\obj\Debug\tes_json.Form1.resources
+D:\Projek VB\vb_net_json_array\tes_json_penjualan\obj\Debug\tes_json.Resources.resources
+D:\Projek VB\vb_net_json_array\tes_json_penjualan\obj\Debug\tes_json.vbproj.GenerateResource.Cache
